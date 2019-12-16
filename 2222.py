@@ -9,3 +9,6 @@ for i in range(len(a)-1):
 if s == 0:
     print('noob')
 else: print(sum)
+'''
+ругается на len!!!!! 
+'''
