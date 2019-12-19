@@ -23,6 +23,7 @@ xLambda(my_list, my_listDic, a)
 
 #string1 = dev.join(str(my_listDic))
 # Придумать как заменить этот for
+#https://pythonworld.ru/tipy-dannyx-v-python/stroki-funkcii-i-metody-strok.html
 for j in range(len(my_listDic)):
     string1 += str(my_listDic[j]) + " "
 

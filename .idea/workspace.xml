@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37f8c9da-9373-4988-9cda-72a8eeda6704" name="Default Changelist" comment="добавил Привет мир">
-      <change beforePath="$PROJECT_DIR$/.idea/MyFirstTry.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MyFirstTry.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="37f8c9da-9373-4988-9cda-72a8eeda6704" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tasks/Lists/task_003.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/Lists/task_003.py" afterDir="false" />
     </list>
@@ -140,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576778887333</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Исправления к третьей задаче">
+      <created>1576780304890</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1576780304890</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,17 +165,18 @@
     <MESSAGE value="добавил Привет мир" />
     <MESSAGE value="правки по второй задаче" />
     <MESSAGE value="задача 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="задача 3" />
+    <MESSAGE value="Исправления к третьей задаче" />
+    <option name="LAST_COMMIT_MESSAGE" value="Исправления к третьей задаче" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576777095692">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1576777095692" />
-    <state x="701" y="216" key="CommitChangelistDialog2" timestamp="1576778886435">
+    <state x="701" y="216" key="CommitChangelistDialog2" timestamp="1576780304235">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="701" y="216" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1576778886435" />
+    <state x="701" y="216" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1576780304235" />
     <state x="934" y="291" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1576775779587" />
     <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1576777093911">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -217,14 +223,14 @@
     </state>
     <state x="744" y="310" key="MultipleFileMergeDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1576776315134" />
     <state x="992" y="417" key="MultipleFileMergeDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1576775377654" />
-    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1576778888368">
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1576780307761">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="254" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1576778888368" />
-    <state x="817" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576776306394">
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1576780307761" />
+    <state x="817" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576780408267">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="817" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1576776306394" />
+    <state x="817" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1576780408267" />
     <state x="1089" y="618" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1576776288394" />
     <state x="1061" y="414" key="git4idea.branch.GitSmartOperationDialog" timestamp="1576775366933">
       <screen x="0" y="0" width="2560" height="1400" />
