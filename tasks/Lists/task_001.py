@@ -4,6 +4,14 @@
 Выводимые числа не должны повторяться.
 '''
 
-income = [int(i) for i in input().split()]
-output = []
-income.sort()
+#income = [int(i) for i in input().split()]
+#output = []
+#income.sort()
+my_list = sorted([int(i) for i in input().split(' ')])
+second_list = []
+for i in range(len(my_list)-1):
+    b = my_list[i]
+    if b == my_list[i+1]:
+        second_list.append(my_list[i])
+print(second_list)
+print('Саня бухой')
