@@ -7,14 +7,17 @@
 '''
 # s = [int(i) for i in input().split()]
 # n = int(input())
-output = ""
+output = []
 s = [int(i) for i in input().split()]
 n = int(input())
 
+myLambda = lambda lst, n, output: [output.append(i) if lst[i] == n else not n for i in range(len(lst))]
+'''
+<действие> if (Условие) else <другое действие>
+'''
+
 if n in s:
-    for i in range(len(s)):
-        if s[i] == n:
-            output += str(i) + " "
-    print(output)
+    myLambda(s, n, output)
+    print(str(output).replace('[', '').replace(']', '').replace(',', ''))
 else:
     print('Отсутствует')
